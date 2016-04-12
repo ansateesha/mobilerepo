@@ -7,6 +7,7 @@ public class FileOne {
 		// new comment44
 		// new comment33
 		// second new comment
+		// some comment 1
 
 	}
 
